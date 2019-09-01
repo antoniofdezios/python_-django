@@ -49,6 +49,7 @@
   <ItemGroup>
     <Content Include="Foods\templates\Foods\index.html" />
     <Content Include="requirements.txt" />
+    <Content Include="runtime.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="APIFoods\" />
