@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Foods\templates\Foods\index.html" />
+    <Content Include="Procfile" />
     <Content Include="requirements.txt" />
     <Content Include="runtime.txt" />
   </ItemGroup>
