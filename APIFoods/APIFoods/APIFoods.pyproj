@@ -51,6 +51,7 @@
     <Content Include="Procfile" />
     <Content Include="requirements.txt" />
     <Content Include="runtime.txt" />
+    <Content Include="static\.gitkeep" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="APIFoods\" />
@@ -58,6 +59,7 @@
     <Folder Include="Foods\migrations\" />
     <Folder Include="Foods\templates\" />
     <Folder Include="Foods\templates\Foods\" />
+    <Folder Include="static\" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
