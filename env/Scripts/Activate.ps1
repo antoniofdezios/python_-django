@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\antho\source\repos\APIFoods\APIFoods\env"
+$env:VIRTUAL_ENV="C:\Users\antho\source\repos\APIRESTFood\APIRESTFood\env"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name

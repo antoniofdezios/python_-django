@@ -1,4 +1,4 @@
-#!C:\Users\antho\source\repos\APIFoods\APIFoods\env\Scripts\python.exe
+#!C:\Users\antho\source\repos\APIRESTFood\APIRESTFood\env\Scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":

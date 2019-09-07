@@ -1,4 +1,3 @@
-
 from Foods.models import Food
 from rest_framework import serializers
 
