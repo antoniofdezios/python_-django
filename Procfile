@@ -1,1 +1,1 @@
-web: gunicorn experiment_django.wsgi --log-file -
+web: gunicorn akirachix_2017_09_19.wsgi --log-file -
