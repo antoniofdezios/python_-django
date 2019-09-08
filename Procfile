@@ -1,1 +1,1 @@
-web: python manage.py runserver 0.0.0.0:$PORT --noreload
+web: gunicorn akirachix_2017_09_19.wsgi --log-file -
